@@ -940,7 +940,7 @@ web sites through the HTML Notifications API. -->
 
 <!-- Service notification and actions -->
 <!ENTITY ceno_notification_title "Servicio del Navegador CENO">
-<!ENTITY ceno_notification_description "Toque para parar">
+<!ENTITY ceno_notification_description "Toca para parar">
 <!ENTITY ceno_notification_home_description "Inicio">
 <!ENTITY ceno_notification_purge_description "Borrar&#9888;">
 <!ENTITY ceno_notification_purge_do_description "Sí">
