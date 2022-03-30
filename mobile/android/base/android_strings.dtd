@@ -939,12 +939,12 @@ web sites through the HTML Notifications API. -->
 <!-- Extra paragraph in private tab panel. -->
 <!ENTITY ceno_private_tab_panel_description "CENO no compartirá contenido de pestañas privadas con otros usuarios. Puedes visitar sitios con contraseña sin riesgo, pero es necesaria una vía hacia Internet.">
 
-<!-- "No Wi-Fi" dialog -->
-<!ENTITY ceno_wifi_disconnected_dialog_title "Aviso del Navegador CENO">
-<!ENTITY ceno_wifi_disconnected_dialog_description "Se recomienda usar CENO con Wi-Fi, ya que puede consumir más datos de los esperados. Tal vez prefiera parar CENO cuando use datos móviles.">
-<!ENTITY ceno_wifi_disconnected_dialog_stop_now "Parar CENO ahora">
-<!ENTITY ceno_wifi_disconnected_dialog_continue "Continuar">
-<!ENTITY ceno_wifi_disconnected_dialog_stop_showing "No volver a mostrar">
+<!-- "On mobile data" dialog -->
+<!ENTITY ceno_on_mobile_data_dialog_title "Aviso del Navegador CENO">
+<!ENTITY ceno_on_mobile_data_dialog_description "Se recomienda usar CENO con Wi-Fi, ya que puede consumir más datos de los esperados. Tal vez prefiera parar CENO cuando use datos móviles.">
+<!ENTITY ceno_on_mobile_data_dialog_stop_now "Parar CENO ahora">
+<!ENTITY ceno_on_mobile_data_dialog_continue "Continuar">
+<!ENTITY ceno_on_mobile_data_dialog_stop_showing "No volver a mostrar">
 
 <!-- Service notification and actions -->
 <!ENTITY ceno_notification_title "Servicio del Navegador CENO">
